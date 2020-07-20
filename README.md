@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello 👋
 
+Welcome to my GitHub profile. I am a Software Engineer based out of Bangalore, India. I often work on side projects to explore new technologies, programming languages or just build fun little tool for myself. Feel free to go through the repositories below and leave any comments.
+
+#### Reach me
+You can reach me at [LinkedIn](https://www.linkedin.com/in/rakeshkasibhatla/) or [Twitter](https://twitter.com/vjyrakesh).
+I also write articles at [Medium](https://medium.com/@vjyrakesh)
+
+Read more at my personal site [here](https://www.rakeshkasibhatla.in)
 <!--
 **vjyrakesh/vjyrakesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
